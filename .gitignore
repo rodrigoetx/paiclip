@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Videos & Media (nunca enviar gravações ou arquivos temporários)
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.flv
+*.wmv
+*.m4v
+*.png
+*.jpg
+*.jpeg
+
+# Binários locais e temporários
+bin/
+*.zip
+*.tar.gz
+*.tmp
+*.log
+
+# IDE & Sistema Operacional
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
